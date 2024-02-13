@@ -25,7 +25,7 @@ The Python Maze Game Challenge is a journey through the development, problem-sol
 
 ## Presentation
 
-For a detailed overview of the project, including the rationale behind design decisions and a walkthrough of the code, please refer to our presentation materials:
+For a detailed overview of the project, including the rationale behind design decisions and a walkthrough of the code, please refer to the presentation materials:
 
 - [Maze Game Presentation](./pymaze_Challenge.pptx) - PowerPoint presentation outlining the project details and enhancements.
 - [Watch the Presentation on YouTube](https://youtu.be/gZmSJtEBXEU) - Video presentation discussing the project and showcasing the gameplay.
