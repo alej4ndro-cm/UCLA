@@ -20,8 +20,9 @@ The Python Maze Game Challenge is a journey through the development, problem-sol
 
 ## Code Structure
 - `pymaze.py`: The initial version of the game.
-- `pymaze_with_score.py`: The final version of the game, with both enhancements and bug fixes.
 - `pymazed_fixed.py`: The game with added scoring functionality.
+- `pymaze_final.py`: The final version of the game, with both enhancements and bug fixes.
+
 
 ## Contributing
 Encouragement for others to contribute, whether by suggesting features, identifying bugs, or improving the codebase.
