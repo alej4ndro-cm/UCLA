@@ -1,4 +1,4 @@
-import random
+import secrets
 
 # Maze dimensions
 MAZE_WIDTH = 10
@@ -28,8 +28,8 @@ def initialize_maze():
     # Place items
     for _ in range(3):  # Adjust the number of items as needed
         while True:
-            x = random.randint(1, MAZE_WIDTH - 2)
-            y = random.randint(1, MAZE_HEIGHT - 2)
+            x = secrets.SystemRandom().randint(1, MAZE_WIDTH - 2)
+            y = secrets.SystemRandom().randint(1, MAZE_HEIGHT - 2)
             if maze[y][x] == EMPTY:
                 maze[y][x] = ITEM
                 break
